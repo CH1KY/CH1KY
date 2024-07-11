@@ -1,7 +1,8 @@
 <div id="user-content-toc">
-  <ul align="center">
+<ul align="center">
     <summary><h1 style="display: inline-block">Hi, welcome to my profile👋</h1></summary>
-    <a href="sebacaceresino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/sci-cl/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:sebacaceresino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   </ul>
 </div>
 
