@@ -6,16 +6,19 @@ My name is Sebastián but all call me Ch1ky, and I am currently studying cyberse
 <h3 align="left">📨 Connect with me</h3>
 Feel free to reach out for discussions, collaborations, or opportunities related to cybersecurity and software development. You can contact me here on GitHub or send me a DM in Discord.
 
+<a href="https://www.linkedin.com/in/sci-cl/" target="_blank"><img src="linkedin.png" alt="Linkedin" width="50"></a> <a href="mailto:sebacaceresino@gmail.com" target="_blank"><img src="gmail.png" alt="Gmail" width="50"></a>
+ 
+
 <p align="left">
 <!-- Aquí puedes añadir tus enlaces de redes sociales -->
 </p>
 
-<h2>🌱 Goals:</h2>
+<h2>🌱 Goals</h2>
 I am committed to expanding my skills in cybersecurity and networks, applying my knowledge to practical projects and contributing to the community. I am eager to learn and collaborate with professionals in the field to develop effective solutions for security challenges.
 
 <h2>💡 Skills!</h2>
 
-<h3> Languages Learned </h3>
+<h3>Languages Learned</h3>
 <div align="left">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="python_919852 (2).png" alt="Python" width="50"/><br>Python
@@ -27,7 +30,7 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
 
 <img align="right" alt="Coding" width="400" src="cyberhead.gif">
 
-<h3> Languages in Learning </h3>
+<h3>Languages in Learning</h3>
 <div align="left">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="gnu-bash_919837.png" alt="Bash" width="50"/><br>Bash
@@ -39,8 +42,6 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
     <img src="c_6132222.png" alt="C++" width="50"/><br>C++
   </div>
 </div>
-
-<h3></h3>
 
 <h3>Database</h3>
 <div align="left">
@@ -63,14 +64,20 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
   </div>
 </div>
 
-<h3>Operatives Systems</h3>
+<h3>Operative Systems</h3>
+<div align="left">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="linux.png" alt="Linux" width="50"/><br>Linux
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="windows.png" alt="Windows" width="50"/><br>Windows
+  </div>
+</div>
 
 ### 💼 Interests:
-- 🌐 **Pentesting and Security:** Focused on evaluating system and network security.
+- 🌐 **Pentesting and Security:** Focused on evaluating system and network security. aaaa
 - 🐍 **Python:** Scripting for automation and data analysis.
 - 📄 **LaTeX:** Creating technical and academic documents with high typographical quality.
 - 💻 **Operating Systems:** Experience in Linux and Windows environments.
-
-
 
 
