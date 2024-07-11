@@ -16,8 +16,8 @@
 
 ## Skills
 - **Languages**:
-  
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://www.flaticon.com/free-icons/python)
+  ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
   ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
