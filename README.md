@@ -16,7 +16,7 @@
 
 ## Skills
 - **Languages**:
-  ![Python](https://www.flaticon.com/free-icons/python)
+  ![Python](https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=1&origin=search&related_id=919852)
   ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
   ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
