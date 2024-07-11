@@ -11,22 +11,22 @@ My name is Sebastián but all call me Ch1ky, and I am currently studying cyberse
 ### 🌱 Goals:
 I am committed to expanding my skills in cybersecurity and networks, applying my knowledge to practical projects and contributing to the community. I am eager to learn and collaborate with professionals in the field to develop effective solutions for security challenges.
 
-<img align="right" alt="Coding" width="400" src="cyberhead.gif">
 
 ## Skills!
 - **Languages Learned**:
-  ![Python]<img src="python_919852 (2).png" alt="Python" width="70"/>
-  ![Latex]<img src="text-editor_196308.png" alt="Bash" width="70"/>
+  <img src="python_919852 (2).png" alt="Python" width="70"/>**Python**
+  <img src="text-editor_196308.png" alt="Bash" width="70"/>**LaTeX**
+
+<img align="right" alt="Coding" width="400" src="cyberhead.gif">
 
 - **Languages in Learning**
-- ![Bash]<img src="gnu-bash_919837.png" alt="Bash" width="70"/>
-  ![Java]<img src="file_10095507.png" alt="Bash" width="70"/>
-  ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+  <img src="gnu-bash_919837.png" alt="Bash" width="70"/>**Bash**
+  <img src="file_10095507.png" alt="Bash" width="70"/>**Java**
+  <img src="c_6132222.png" alt="Bash" width="70"/>**C++**
 
 - **Database**:
   
-    ![MySQL]<img src="database_10124728.png" alt="Bash" width="70"/>
+    <img src="database_10124728.png" alt="Bash" width="70"/>**MySQL**
 
 
 - **Tools**:
@@ -35,7 +35,7 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
 
 - **IDEs**:
   
-  ![Visual Studio Code]<img src="visual-studio.png" alt="Bash" width="70"/>
+  <img src="visual-studio.png" alt="Bash" width="70"/>**Visual Studio Code**
 
 </details>
 
