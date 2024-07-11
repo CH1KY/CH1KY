@@ -22,8 +22,7 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
 <div align="left">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="python_919852 (2).png" alt="Python" width="50"/><br>Python
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </div> <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="text-editor_196308.png" alt="LaTeX" width="50"/><br>LaTeX
   </div>
 </div>
@@ -34,11 +33,9 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
 <div align="left">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="gnu-bash_919837.png" alt="Bash" width="50"/><br>Bash
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </div> <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="file_10095507.png" alt="Java" width="50"/><br>Java
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
+  </div> <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="c_6132222.png" alt="C++" width="50"/><br>C++
   </div>
 </div>
@@ -75,7 +72,7 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
 </div>
 
 ### 💼 Interests:
-- 🌐 **Pentesting and Security:** Focused on evaluating system and network security. aaaa
+- 🌐 **Pentesting and Security:** Focused on evaluating system and network security.
 - 🐍 **Python:** Scripting for automation and data analysis.
 - 📄 **LaTeX:** Creating technical and academic documents with high typographical quality.
 - 💻 **Operating Systems:** Experience in Linux and Windows environments.
