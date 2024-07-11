@@ -9,19 +9,24 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ## Experience with
-  - 🌐 Pentesting and Security
+  - 🌐 Security
   - 🐍 Python
   - 📄 LaTeX
   - 💻 Linux and Windows
 
 ## Skills
-- **Languages**:
-  ![Python]<path d="M372.12 111.783V238.07c0 29.727-24.095 53.823-53.823 53.823H188.928c-37.397 0-67.709 30.323-67.709 67.72v62.025H78.921c-7.659 0-15.015-1.515-21.901-4.566-20.605-25.412-36.425-54.847-46.122-86.946-.763-7.92-1.16-16.374-1.16-25.36 0-78.461 30.981-116.872 69.183-116.872H256.71v-18.223H138.386v-57.887c0-29.393 52.328-53.227 116.872-53.227S372.12 82.39 372.12 111.783z" style="" fill="#3876ac" data-original="#3876ac" class=""></path>
+- **Languages Learned**:
+  ![Python] (https://www.freepik.com/icon/python_919852#fromView=search&page=1&position=3&uuid=b0a466f1-b903-4d2e-b040-8921cfac9f9d)
   ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
   ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
   ![Latex](https://camo.githubusercontent.com/e9e239179df81c16fe006b23767d5c02f39b567ee48659832a5ce29089dd986c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
+
+- **Languages in Learning**
+  ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 
 - **Database**:
   
