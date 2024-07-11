@@ -23,7 +23,6 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
   </div>
 </div>
 
-<img align="right" alt="Coding" width="400" src="cyberhead.gif">
 
 ### Languages in Learning
 <div align="left">
