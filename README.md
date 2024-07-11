@@ -19,59 +19,39 @@ I am committed to expanding my skills in cybersecurity and networks, applying my
 <h2>💡 Skills!</h2>
 
 <h3>Languages Learned</h3>
-<div style="display: flex; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="python_919852 (2).png" alt="Python" width="50"/><br>Python
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="text-editor_196308.png" alt="LaTeX" width="50"/><br>LaTeX
-  </div>
+<div align="left">
+  <img src="python_919852 (2).png" alt="Python" width="50"/><br>Python
+  <img src="text-editor_196308.png" alt="LaTeX" width="50"/><br>LaTeX
 </div>
 
 <img align="right" alt="Coding" width="400" src="cyberhead.gif">
 
 <h3>Languages in Learning</h3>
-<div style="display: flex; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="gnu-bash_919837.png" alt="Bash" width="50"/><br>Bash
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="file_10095507.png" alt="Java" width="50"/><br>Java
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="c_6132222.png" alt="C++" width="50"/><br>C++
-  </div>
+<div align="left">
+  <img src="gnu-bash_919837.png" alt="Bash" width="50"/><br>Bash
+  <img src="file_10095507.png" alt="Java" width="50"/><br>Java
+  <img src="c_6132222.png" alt="C++" width="50"/><br>C++
 </div>
 
 <h3>Database</h3>
-<div style="display: flex; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="database_10124728.png" alt="MySQL" width="50"/><br>MySQL
-  </div>
+<div align="left">
+  <img src="database_10124728.png" alt="MySQL" width="50"/><br>MySQL
 </div>
 
 <h3>Tools</h3>
-<div style="display: flex; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="1u671h0bmu13bfbm4klv6hc2rn-7a4fb512a5f1b1bc0e5d56faafa65081.png" alt="GitHub Desktop" width="50"/><br>GitHub Desktop
-  </div>
+<div align="left">
+  <img src="1u671h0bmu13bfbm4klv6hc2rn-7a4fb512a5f1b1bc0e5d56faafa65081.png" alt="GitHub Desktop" width="50"/><br>GitHub Desktop
 </div>
 
 <h3>IDEs</h3>
-<div style="display: flex; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="visual-studio.png" alt="Visual Studio Code" width="47"/><br>Visual Studio Code
-  </div>
+<div align="left">
+  <img src="visual-studio.png" alt="Visual Studio Code" width="47"/><br>Visual Studio Code
 </div>
 
 <h3>Operative Systems</h3>
-<div style="display: flex; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="linux.png" alt="Linux" width="50"/><br>Linux
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="windows.png" alt="Windows" width="50"/><br>Windows
-  </div>
+<div align="left">
+  <img src="linux.png" alt="Linux" width="50"/><br>Linux
+  <img src="windows.png" alt="Windows" width="50"/><br>Windows
 </div>
 
 ### 💼 Interests:
