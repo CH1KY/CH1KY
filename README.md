@@ -20,15 +20,20 @@ Hello, nice to meet you! My name is Sebastián but all call me Ch1ky, and I am c
 ## Skills
 - **Languages**:
   
-  ![Python]("C:\Users\CHK\Downloads\file.png")
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Latex](https://camo.githubusercontent.com/e9e239179df81c16fe006b23767d5c02f39b567ee48659832a5ce29089dd986c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
 
+- **Database**:
+  
+    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 - **Tools**:
 
-  ![Git Desktop](https://www.flaticon.com/free-icon/github_1322053?term=github&page=1&position=50&origin=search&related_id=1322053)
+  ![GitHub Desktop](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - **IDEs**:
   
