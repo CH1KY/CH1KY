@@ -16,7 +16,7 @@
 
 ## Skills
 - **Languages**:
-  ![Python](https://www.flaticon.com/free-icon/python_919852?term=python&page=1&position=1&origin=search&related_id=919852)
+  ![Python]<path d="M372.12 111.783V238.07c0 29.727-24.095 53.823-53.823 53.823H188.928c-37.397 0-67.709 30.323-67.709 67.72v62.025H78.921c-7.659 0-15.015-1.515-21.901-4.566-20.605-25.412-36.425-54.847-46.122-86.946-.763-7.92-1.16-16.374-1.16-25.36 0-78.461 30.981-116.872 69.183-116.872H256.71v-18.223H138.386v-57.887c0-29.393 52.328-53.227 116.872-53.227S372.12 82.39 372.12 111.783z" style="" fill="#3876ac" data-original="#3876ac" class=""></path>
   ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
   ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
