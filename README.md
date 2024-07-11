@@ -16,11 +16,10 @@
 
 ## Skills
 - **Languages Learned**:
-  ![Python] (https://www.freepik.com/icon/python_919852#fromView=search&page=1&position=3&uuid=b0a466f1-b903-4d2e-b040-8921cfac9f9d)
   ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
   ![Java](https://img.shields.io/badge/Java%20-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+  ![Bash](gnu-bash_919837.png)
   ![Latex](https://camo.githubusercontent.com/e9e239179df81c16fe006b23767d5c02f39b567ee48659832a5ce29089dd986c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
 
 - **Languages in Learning**
