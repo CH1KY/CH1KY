@@ -77,41 +77,16 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
 
 
 Languages in Learning
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="gnu-bash_919837.png" alt="Bash" width="50"></a><br>Bash
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="file_10095507.png" alt="Java" width="50"></a><br>Java
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="c_6132222.png" alt="C++" width="50"></a><br>C++
-  </div>
-</div>
+<a href="#" target="_blank"><img src="gnu-bash_919837.png" alt="Bash" width="50"></a>  <a href="#" target="_blank"><img src="file_10095507.png" alt="Java" width="50"></a>  <a href="#" target="_blank"><img src="c_6132222.png" alt="C++" width="50"></a>
+
 Database
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="database_10124728.png" alt="MySQL" width="50"></a><br>MySQL
-  </div>
-</div>
+<a href="#" target="_blank"><img src="database_10124728.png" alt="MySQL" width="50"></a>
+
 Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="1u671h0bmu13bfbm4klv6hc2rn-7a4fb512a5f1b1bc0e5d56faafa65081.png" alt="GitHub Desktop" width="50"></a><br>GitHub Desktop
-  </div>
-</div>
+<a href="#" target="_blank"><img src="1u671h0bmu13bfbm4klv6hc2rn-7a4fb512a5f1b1bc0e5d56faafa65081.png" alt="GitHub Desktop" width="50"></a>
+
 IDEs
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="visual-studio.png" alt="Visual Studio Code" width="50"></a><br>Visual Studio Code
-  </div>
-</div>
+<a href="#" target="_blank"><img src="visual-studio.png" alt="Visual Studio Code" width="50"></a>
+
 Operative Systems
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="linux.png" alt="Linux" width="50"></a><br>Linux
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <a href="#" target="_blank"><img src="windows.png" alt="Windows" width="50"></a><br>Windows
-  </div>
-</div>
+<a href="#" target="_blank"><img src="linux.png" alt="Linux" width="50"></a>  <a href="#" target="_blank"><img src="windows.png" alt="Windows" width="50"></a>
