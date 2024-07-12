@@ -22,47 +22,39 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <div style="text-align: left; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=py"/><br>Python
-    </div>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
-    <div style="text-align: left; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=latex"/><br>LaTeX
+      <img src="https://skillicons.dev/icons?i=py,latex"/><br>
     </div>
   </div>
 </div>  
 
 <h3> Languages in Learning </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
-  <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/><br>Bash
-  </div>
-  <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/><br>Java
-  </div>
-  <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/><br>C++
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <div style="text-align: left; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=bash,java,cpp"/><br>
+    </div>
   </div>
 </div>
+
 
 <h3> Database </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/><br>MySQL
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/><br>
   </div>
 </div>
 
 <h3> Tools </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Desktop" width="50"/><br>GitHub Desktop
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Desktop" width="50"/><br>
   </div>
 </div>
 
 <h3>IDEs</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50"/><br>Visual Studio Code
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50"/><br>
   </div>
 </div>
 
