@@ -7,15 +7,16 @@
     <h2 style="margin: 0; height: 50px; line-height: 50px;">Who I am?</h2>
 </div>
 <p style="margin-bottom: 20px;">
-    My name is Sebastián but everyone calls me Ch1ky. I'm currently studying cybersecurity and passionate about pentesting, Python, and LaTeX. I'm also learning C++, Bash, and Java to strengthen my skills. I have experience with Linux and Windows in user and server environments.
+    My name is Sebastián, but everyone calls me Ch1ky. I'm currently studying cybersecurity and passionate about pentesting. I use Python for some coding projects and LaTeX for creating my documents. In my day-to-day, I use both Linux and Windows (trying to maintain a balance). I'm also learning other programming languages like C++, Bash, and Java to strengthen my skills, and I've increased my interest in Grafana, starting to study it as well. I plan to build my own home server to store more projects, machines to practice my pentesting skills, and to better understand how network architecture works (PLEASE HELP ME, I REALLY HATE CISCO PACKET TRACER).
 </p>
 
 <div style="display: flex; align-items: center; margin-bottom: 0px;">
-    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" style="margin-right: 10px;">
     <h2 style="margin: 0; height: 50px; line-height: 50px;">Connect with me</h2>
+    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" style="margin-right: 10px;">
+    <!--- <h2 style="margin: 0; height: 50px; line-height: 50px;">Connect with me</h2> --->
 </div>
 <p style="margin-bottom: 20px;">
-    Feel free to reach out for discussions, collaborations, or opportunities related to cybersecurity and software development. You can contact me here on GitHub or send me a DM on Discord. (My Discord [ch1ky_])
+    Feel free to reach out for discussions, collaborations, or opportunities related to cybersecurity, software development, or any topic related to computer science. If you also have something to teach me, I will be happy to listen. You can contact me here on GitHub or send me a DM on Discord. (My Discord [ch1ky_]).
 </p>
 
 <a href="https://www.linkedin.com/in/sci-cl/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="50"></a> <a href="mailto:sebacaceresino@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50"></a> <a href="https://discord.gg/TU_CODIGO_DE_INVITACION" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"></a>
@@ -25,7 +26,7 @@
     <h2 style="margin: 20; height: 50px; line-height: 50px;">Goals</h2>
 </div>
 <p style="margin-bottom: 50px;">
-    I'm committed to expanding my skills in cybersecurity and networks, applying my knowledge to practical projects, and contributing to the community.
+    I am committed to expanding my skills in cybersecurity, networks, programming, and any area I can learn. I enjoy self-directed learning to apply my knowledge to practical projects and contribute to the community.
 </p>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
