@@ -1,71 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ch1ky</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ch1ky!;" />
+</h1>
+
+<!-- <h1 align="center">Hi 👋, I'm Ch1ky</h1> -->
 
 <h2> 🧑‍💻 Who I am? </h2>
 My name is Sebastián but everyone calls me Ch1ky. I'm currently studying cybersecurity and passionate about pentesting, Python, and LaTeX. I'm also learning C++, Bash, and Java to strengthen my skills. I have experience with Linux and Windows in user and server environments.
 
+
 <h3 align="left">📨 Connect with me</h3>
 Feel free to reach out for discussions, collaborations, or opportunities related to cybersecurity and software development. You can contact me here on GitHub or send me a DM on Discord.
 
-<a href="https://www.linkedin.com/in/sci-cl/" target="_blank"><img src="linkedin.png" alt="Linkedin" width="50"></a> <a href="mailto:sebacaceresino@gmail.com" target="_blank"><img src="gmail.png" alt="Gmail" width="50"></a>
+<a href="https://www.linkedin.com/in/sci-cl/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="50"></a> <a href="mailto:sebacaceresino@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50"></a>
 
 <h2>🌱 Goals</h2>
 I'm committed to expanding my skills in cybersecurity and networks, applying my knowledge to practical projects, and contributing to the community.
 
 <h2>💡 Skills!</h2>
 
-
-
-### Languages Learned
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="python_919852 (2).png" alt="Python" width="50"/><br>Python
+<h3> Languages Learned </h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <div style="text-align: left; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=py"/><br>Python
+    </div>
   </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="text-editor_196308.png" alt="LaTeX" width="50"/><br>LaTeX
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <div style="text-align: left; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=latex"/><br>LaTeX
+    </div>
+  </div>
+</div>  
+
+<h3> Languages in Learning </h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/><br>Bash
+  </div>
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/><br>Java
+  </div>
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/><br>C++
   </div>
 </div>
 
-### Languages in Learning
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="gnu-bash_919837.png" alt="Bash" width="50"/><br>Bash
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="file_10095507.png" alt="Java" width="50"/><br>Java
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="c_6132222.png" alt="C++" width="50"/><br>C++
+<h3> Database </h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/><br>MySQL
   </div>
 </div>
 
-### Database
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="database_10124728.png" alt="MySQL" width="50"/><br>MySQL
+<h3> Tools </h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Desktop" width="50"/><br>GitHub Desktop
   </div>
 </div>
 
-### Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="1u671h0bmu13bfbm4klv6hc2rn-7a4fb512a5f1b1bc0e5d56faafa65081.png" alt="GitHub Desktop" width="50"/><br>GitHub Desktop
-  </div>
-</div>
-
-### IDEs
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="visual-studio.png" alt="Visual Studio Code" width="47"/><br>Visual Studio Code
-  </div>
-</div>
-
-### Operative Systems
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="linux.png" alt="Linux" width="50"/><br>Linux
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="windows.png" alt="Windows" width="50"/><br>Windows
+<h3>IDEs</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50"/><br>Visual Studio Code
   </div>
 </div>
 
@@ -76,17 +73,7 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
 - 💻 **Operating Systems:** Experience in Linux and Windows environments.
 
 
-Languages in Learning
-<a href="#" target="_blank"><img src="gnu-bash_919837.png" alt="Bash" width="50"></a>  <a href="#" target="_blank"><img src="file_10095507.png" alt="Java" width="50"></a>  <a href="#" target="_blank"><img src="c_6132222.png" alt="C++" width="50"></a>
-
-Database
-<a href="#" target="_blank"><img src="database_10124728.png" alt="MySQL" width="50"></a>
-
-Tools
-<a href="#" target="_blank"><img src="1u671h0bmu13bfbm4klv6hc2rn-7a4fb512a5f1b1bc0e5d56faafa65081.png" alt="GitHub Desktop" width="50"></a>
-
-IDEs
-<a href="#" target="_blank"><img src="visual-studio.png" alt="Visual Studio Code" width="50"></a>
-
-Operative Systems
-<a href="#" target="_blank"><img src="linux.png" alt="Linux" width="50"></a>  <a href="#" target="_blank"><img src="windows.png" alt="Windows" width="50"></a>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/CH1KY/CH1KY/output/github-contribution-grid-snake.svg" />
