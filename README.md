@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ch1ky!🎴;" />
 </h1>
 
+<div align="center">
+    <img src="212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 0px;">
   <h2 style="margin: 0; height: 50px; line-height: 50px;">Who I am?</h2>
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="55" style="margin-right: 10px;">
@@ -96,10 +100,10 @@
     <img src="ANIMATION LOGO CYBER SECURITY.gif" width="400">
 </div> --->
 
-<div style="text-align: center;">
+<!--- <div align="center">
     <img src="212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
-</div>
-
+</div> 
+--->
 
 
 <!--- <div align="center">
