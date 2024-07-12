@@ -82,7 +82,7 @@
 
 ### 💼 Interests:
 - 🌐 **Pentesting and Security:** Pursuing advanced skills in ethical hacking and penetration testing to enhance system and network security measures.
-- 🐍 **Python:** Aim to specialize in Python for scalable automation, cybersecurity tool development, and deep learning applications.
+- 👾 **Programming Languages:** Trying to specialize in coding for scalable automation, cybersecurity tool development, and deep learning applications.
 - 📄 **LaTeX:** Learning to create technical and academic documents with impeccable typographical quality and efficient document management.
 - 💻 **Operating Systems:** Proficient in Linux and Windows environments, with a keen interest in exploring other Unix-like systems.
 - 🚀 **Cloud Computing:** Eager to delve deeper into cloud platforms like AWS, Azure, and Google Cloud for scalable applications and infrastructure.
