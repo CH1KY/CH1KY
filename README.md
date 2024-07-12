@@ -13,6 +13,8 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
 
 <h2>💡 Skills!</h2>
 
+
+
 ### Languages Learned
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="text-align: center; margin: 10px;">
@@ -72,3 +74,11 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
 - 🐍 **Python:** Scripting for automation and data analysis.
 - 📄 **LaTeX:** Creating technical and academic documents with high typographical quality.
 - 💻 **Operating Systems:** Experience in Linux and Windows environments.
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="gnu-bash_919837.png" alt="Bash" width="50"/><br>Bash
+    <img src="file_10095507.png" alt="Java" width="50"/><br>Java
+    <img src="c_6132222.png" alt="C++" width="50"/><br>C++
+  </div>
