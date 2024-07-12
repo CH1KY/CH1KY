@@ -3,8 +3,9 @@
 </h1>
 
 <div style="display: flex; align-items: center; margin-bottom: 0px;">
+  <h2 style="margin: 0; height: 50px; line-height: 50px;">Who I am?</h2>
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="55" style="margin-right: 10px;">
-    <h2 style="margin: 0; height: 50px; line-height: 50px;">Who I am?</h2>
+    <!---<h2 style="margin: 0; height: 50px; line-height: 50px;">Who I am?</h2> --->
 </div>
 <p style="margin-bottom: 20px;">
     My name is Sebastián, but everyone calls me Ch1ky. I'm currently studying cybersecurity and passionate about pentesting. I use Python for some coding projects and LaTeX for creating my documents. In my day-to-day, I use both Linux and Windows (trying to maintain a balance). I'm also learning other programming languages like C++, Bash, and Java to strengthen my skills, and I've increased my interest in Grafana, starting to study it as well. I plan to build my own home server to store more projects, machines to practice my pentesting skills, and to better understand how network architecture works (PLEASE HELP ME, I REALLY HATE CISCO PACKET TRACER).
@@ -22,16 +23,18 @@
 <a href="https://www.linkedin.com/in/sci-cl/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="50"></a> <a href="mailto:sebacaceresino@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50"></a> <a href="https://discord.gg/TU_CODIGO_DE_INVITACION" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"></a>
 
 <div style="display: flex; align-items: center; margin-bottom: 0px;">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="55" style="margin-right: 10px;">
     <h2 style="margin: 20; height: 50px; line-height: 50px;">Goals</h2>
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="55" style="margin-right: 10px;">
+  <!---  <h2 style="margin: 20; height: 50px; line-height: 50px;">Goals</h2> --->
 </div>
 <p style="margin-bottom: 50px;">
     I am committed to expanding my skills in cybersecurity, networks, programming, and any area I can learn. I enjoy self-directed learning to apply my knowledge to practical projects and contribute to the community.
 </p>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" style="margin-right: 10px;">
     <h2 style="margin: 0; height: 50px; line-height: 50px;">Skills!</h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" style="margin-right: 10px;">
+    <!--- <h2 style="margin: 0; height: 50px; line-height: 50px;">Skills!</h2> --->
 </div>
 
 <h3> Languages Learned </h3>
