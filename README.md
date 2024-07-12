@@ -77,7 +77,11 @@ I'm committed to expanding my skills in cybersecurity and networks, applying my 
 - 🚀 **Cloud Computing:** Eager to delve deeper into cloud platforms like AWS, Azure, and Google Cloud for scalable applications and infrastructure.
 - ⚙️ **Server Assembly and Service Monitoring:** Developing skills in server setup and configuration, with a focus on monitoring services using tools like Grafana for real-time analytics and visualization.
 
-<img src="ANIMATION LOGO CYBER SECURITY.gif">
+<div style="text-align: center;">
+    <img src="ANIMATION LOGO CYBER SECURITY.gif" width="400">
+</div>
+
+
 
 <!--- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
