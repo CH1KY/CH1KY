@@ -88,6 +88,14 @@
   </div>
 </div>
 
+<div>
+  <h3>TryHackMe</h3>
+  <script src="https://tryhackme.com/badge/2306172"></script>
+</div>
+<!---<a href="https://tryhackme.com/badge/2306172" target="_blank">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/CHK.png" alt="TryHackMe">
+</a>--->
+
 ### 💼 Interests:
 - 🌐 **Pentesting and Security:** Pursuing advanced skills in ethical hacking and penetration testing to enhance system and network security measures.
 - 👾 **Programming Languages:** Trying to specialize in coding for scalable automation, cybersecurity tool development, and deep learning applications.
