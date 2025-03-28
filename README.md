@@ -54,7 +54,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <div style="text-align: left; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=bash,java,cpp"/><br>
+      <img src="https://skillicons.dev/icons?i=bash,java,c"/><br>
     </div>
   </div>
 </div>
@@ -63,28 +63,31 @@
 <h3> Database </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"
+    ><br>
   </div>
 </div>
 
 <h3> Tools </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
-  <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Desktop" width="50"/><br>
-  </div>
-</div>
-
-<h3> Tools in Learning </h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
     <div style="text-align: left; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=grafana"/><br>
+      <img src="https://skillicons.dev/icons?i=github,grafana,prometheus,docker,neovim,vim,powershell"/><br>
     </div>
+  </div>
 </div>
 
 <h3>IDEs</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <div style="text-align: left; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,replit"/><br>
+  </div>
+</div>
+
+<h3>OS</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="text-align: left; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,kali,redhat,ubuntu"/><br>
   </div>
 </div>
 
